@@ -1,2 +1,3 @@
-# hello world
- primeiro repositorio git(hub)
+# Olá, mundo!
+ primeiro repositorio git(hub),
+ Curso Gustavo Guanabara-Cursoemvideo
